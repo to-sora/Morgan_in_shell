@@ -34,3 +34,8 @@ The text files in the txt directory are generated using the jp2a tool. The comma
 jp2a --color --color-depth=24 --width=80 png/test5-removebg-preview.png
 ```
 ## All image is create by artist. I do not own any image
+
+## Demo Video
+
+Click here to view the demo video: [View Demo](https://github.com/waito3209/Morgan_in_shell/blob/main/morgan_demo.mp4)
+
