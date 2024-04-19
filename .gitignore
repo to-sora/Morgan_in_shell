@@ -1,0 +1,10 @@
+# Ignore photo files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+
+# Ignore everything in the /txt/random directory
+/txt/random/*
