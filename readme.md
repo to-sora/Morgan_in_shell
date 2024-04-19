@@ -37,5 +37,6 @@ jp2a --color --color-depth=24 --width=80 png/test5-removebg-preview.png
 
 ## Demo Video
 
-Click here to view the demo video: [View Demo](https://github.com/waito3209/Morgan_in_shell/blob/main/morgan_demo.mp4)
+Click here to view the demo video: 
+![View Demo](https://github.com/waito3209/Morgan_in_shell/blob/main/morgan_demo.mp4)
 
