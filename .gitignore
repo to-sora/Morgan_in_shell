@@ -7,4 +7,4 @@
 *.tiff
 
 # Ignore everything in the /txt/random directory
-/txt/random/*
+# /txt/random/*
